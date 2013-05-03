@@ -1,0 +1,6 @@
+echo "123" > /dev/null
+gvim
+firefox &
+xterm
+echo "456" > /dev/null
+
